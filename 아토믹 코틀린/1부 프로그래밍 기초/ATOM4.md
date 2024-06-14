@@ -1,4 +1,4 @@
-# ATOM 3: Hello, World!
+# ATOM 4: var와 val
 
 ### 식별자(identifier)
 
